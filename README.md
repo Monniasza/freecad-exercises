@@ -1,10 +1,12 @@
 # CAD exercises in FreeCAD
 Bart Massey 2021
 
-I ran across a [Reddit thread](https://www.reddit.com/r/FreeCAD/comments/rcipma/hi_guys_im_new_with_this_software_and_i_have_to/) today talking about some
-apparently-classic ![exercises](exercises.jpg) for designing and machining
+I ran across a [Reddit thread](https://www.reddit.com/r/FreeCAD/comments/rcipma/hi_guys_im_new_with_this_software_and_i_have_to/) today talking about 24
+apparently-classic exercises for designing and machining
 that date way back. These exercises were being used with
 FreeCAD, and it looked interesting…
+
+![24 exercises](exercises.jpg)
 
 One major nerdsnipe later, here are my solutions to a few
 selected exercises in FreeCAD. I don't claim they are good,
