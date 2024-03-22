@@ -15,9 +15,8 @@ each case. I learned a bit from doing them, and really
 brushed up my dusty FreeCAD skills.
 
 ## Intellectual Property
-
-I do not know the source of these exercises, and am
-including them without permission. If there is a copyright
+These exercises were made by [u/thegoose68](https://www.reddit.com/user/thegoose68/) and posted on Reddit
+I am including them without permission. If there is a copyright
 issue here, please let me know and I will take them down.
 
 All my work in this distribution is freely available under the
